@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-      "start" : "node ."
+    "start" : "node bot.js"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/SnakeGames/Snakes-Slave/issues"
   },
-  "homepage": "https://github.com/SnakeGames/Snakes-Slave#readme",
-  "dependencies": {
-    "discord.js": "^11.5.1"
-  }
+  "homepage": "https://github.com/SnakeGames/Snakes-Slave#readme"
 }
